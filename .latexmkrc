@@ -1,0 +1,3 @@
+#$jobname="handout";
+$jobname="beamer";
+
